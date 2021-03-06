@@ -1,4 +1,12 @@
 # Projeto-Eve
+
+#Sequenciamento, transcrição e tradução de DNA e RNA;
+#Quantificação de biomoléculas;
+#Engenharia genética;
+#Engenharia química;
+#Bioprocessos, Data Science;
+#Biologia Molecular.
+
 from Bio.Seq import Seq
 from funções import desligar
 from funções import aminoácidos
