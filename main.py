@@ -1,6 +1,5 @@
 from Bio.Seq import Seq
 from funções import desligar
- funções import aminoácidos
 from chatterbot.trainers import ListTrainer
 from chatterbot import ChatBot
 
